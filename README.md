@@ -1,34 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sanyukta Khambalkar</h1>
-<h3 align="center">A passionate Data Analyst from India.</h3>
+Businesses aim to keep customers happy. In an online store, customer purchases depend a lot on product reviews and seller ratings. Having good reviews is key to making customers return and boosting sales. In this project, we want to predict customer review scores to understand their experiences with product quality, seller reputation, and the shipping process. This can help the company pick better products, recommend reliable sellers, improve delivery, and design effective customer services and marketing strategies.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanyuktakhambalkar&label=Profile%20views&color=0e75b6&style=flat" alt="sanyuktakhambalkar" /> </p>
+Datasources:
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanyuktakhambalkar" alt="sanyuktakhambalkar" /></a> </p>
-
-- Ask me about **Data Analysis**
-
-- I'm looking to collaborate on **Data Analysis**
-
-- How to reach me **sanyukta.khambalkar@gmail.com**
-
-- Fun fact **I create youtube videos**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanyuktakhambalkar&show_icons=true&locale=en&layout=compact" alt="sanyuktakhambalkar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanyuktakhambalkar&show_icons=true&locale=en" alt="sanyuktakhambalkar" /></p>
-
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
+In this project, we use data shared by Olist - a Brazilian e-commerce platfrom. The data set contains 9 sub-datasets that offer valuable information.
+I have merged all 9 files to create one single file and worked on that to get desired results.
