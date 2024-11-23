@@ -15,9 +15,16 @@ Formatting and inspection for analysis readiness
 📈 Key KPIs:
 
 📈 Weekday vs Weekend Sales Insight
+
 📉 Number of orders by payment type 
+
 🌆 Average price and payment values from customers of sao paulo city
+
 🛳 Shipping Days vs Review Score
+
 🏙 Top 10 City Sales
+
 🛒 Top 10 Products Sales
+
 🗓 Year wise count of orders
+
