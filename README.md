@@ -9,10 +9,11 @@ Merged all 9 files to create one single file and worked on that to get desired r
 
 🧹 Data Preparation:
 
-Data cleaning and handling missing values
+Data cleaning and handling missing values.
 Formatting and inspection for analysis readiness
 
 📈 Key KPIs:
+
 📈 Weekday vs Weekend Sales Insight
 📉 Number of orders by payment type 
 🌆 Average price and payment values from customers of sao paulo city
